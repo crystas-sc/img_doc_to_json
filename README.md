@@ -1,21 +1,4 @@
-crystas-sc: create a blog for this file
 
-Workspace: * **Install Dependencies**
-* **Import Required Libraries**
-* **Load and Display Image**
-* **Extract Text from Image**
-* **Analyze Extracted Text with Langgraph**
-* **Generate Blog Content using Ollama**
-
-
-
-Create Notebook
-
-crystas-sc: create a 1000 word blog content for this file about the usecase and how it solves 
-
-GitHub Copilot: Below is the 1000‑word blog post content in Markdown format:
-
-––––––––––––––––––––––––––––––––––––––––––––––
 # Leveraging Image Processing and Language Analysis for Modern Document Workflows
 
 In today’s fast-paced digital landscape, the ability to quickly capture, process, and understand image-based documents is essential to numerous industries. Whether you're scanning printed records, analyzing historical documents, or working with images from remote sensors, automating the extraction and interpretation of textual information can save valuable time and resources. In this blog, we explore a practical solution built using Python libraries such as Langgraph, Ollama, Pillow, and PyTesseract—a solution that transforms images into analyzable texts and further analyzes and summarizes content through a modern language model interface.
